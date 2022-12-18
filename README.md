@@ -1,1 +1,1 @@
-# open-eth-waas
+# open-ethereum-waas
