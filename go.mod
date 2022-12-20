@@ -1,3 +1,3 @@
 module github.com/naviloper/open-ethereum-waas
 
-go 1.17
+go 1.19
